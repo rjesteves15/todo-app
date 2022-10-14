@@ -1,8 +1,11 @@
-import './App.css';
+import Main from "./component/Main";
+import './app.scss';
 
 function App() {
   return (
-    <></>
+    <>
+    <Main />
+    </>
   );
 }
 

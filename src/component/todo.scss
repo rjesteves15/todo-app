@@ -1,0 +1,19 @@
+.list {
+    background-color: rgb(166, 217, 217);
+    border-left: 10px solid green;
+    margin-bottom: 10px;
+    height: 10vh;
+    color: #000;
+    display: flex;
+
+    .taskInfo {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 100%;
+        padding: 20px;
+      }
+  }
+  
+
+  
